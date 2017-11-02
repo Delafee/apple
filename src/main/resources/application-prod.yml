@@ -1,0 +1,5 @@
+server:
+ port: 8081
+Apple:
+ color: green
+ price: 5
